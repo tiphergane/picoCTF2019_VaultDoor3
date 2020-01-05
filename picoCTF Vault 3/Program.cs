@@ -44,6 +44,10 @@ namespace picoCTF_Vault_3
             string s = new string(ResultFlag);
             string d = "picoCTF{";
             string e = "}";
+            /* 
+            désolé mais je suis fatigué et j'avais envie de jouer un peu
+            la moitié du bloc suivant ne sert À RIEN
+            */
             Console.WriteLine("Connecting to database");
             Console.WriteLine("Riddle reception");
             Console.WriteLine("Riddle is: {0}", r);
